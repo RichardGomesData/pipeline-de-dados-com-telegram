@@ -2,7 +2,8 @@
 
 Este projeto demonstra como construir um pipeline completo de dados utilizando o Telegram como interface de entrada e serviços da AWS como infraestrutura de processamento e armazenamento.
 
-![[architecture 1.png]]
+![Arquitetura do Projeto](architecture.png)
+
 ## 📌 Objetivo
 
 Automatizar o recebimento, o processamento e o enriquecimento de dados via Telegram, utilizando serviços em nuvem (AWS) para transformar dados brutos em informações prontos para consulta analítica.
